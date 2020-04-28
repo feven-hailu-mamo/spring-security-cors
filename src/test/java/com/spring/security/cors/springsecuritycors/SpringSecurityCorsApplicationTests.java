@@ -1,0 +1,13 @@
+package com.spring.security.cors.springsecuritycors;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringSecurityCorsApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
